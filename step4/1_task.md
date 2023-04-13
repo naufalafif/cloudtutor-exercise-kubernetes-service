@@ -1,0 +1,1 @@
+Buat service baru yang mengexpose aplikasi yang sudah dibuat sebelumnya, gunakan nama `my-app-service-nodeport` dengan spefikasi yang sama dengan `my-app-service` tetapi menggunakan type `NodePort` dan port `3030`
